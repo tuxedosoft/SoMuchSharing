@@ -24,7 +24,7 @@ A beautiful, interactive floating social media sharing widget with stunning anim
 
 1. **Download the files**:
    ```bash
-   git clone https://github.com/yourusername/somuchsharing.git
+   git clone https://github.com/tuxedosoft/SoMuchSharing.git
    cd somuchsharing
    ```
 
