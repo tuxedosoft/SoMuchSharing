@@ -4,6 +4,8 @@ A beautiful, interactive floating social media sharing widget with stunning anim
 
 ![SoMuchSharing Widget](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Developer](https://img.shields.io/badge/Developer-Tuxedosoft-orange)
 
+![Screenshot of SoMuchSharing button.](somuchsharing.png)
+
 ## 🌟 Features
 
 - **Floating Design**: Elegant floating button that stays visible while browsing
